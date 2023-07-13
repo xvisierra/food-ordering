@@ -24,9 +24,9 @@ We have big plans for Foodie! In the future, we plan to add features such as:
 
 ## 📱 Screenshots
 
-![Screenshot 1](ss1.png)
-![Screenshot 2](ss2.png)
-![Screenshot 3](ss3.png)
+![Image 1](ss1.png)
+![Image 2](ss2.png)
+![Image 3](ss3.png)
 
 ## 📝 License
 
