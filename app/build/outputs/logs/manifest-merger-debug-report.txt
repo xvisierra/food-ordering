@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\xvisi\.gradle\caches\transforms-3\552a1b3fca08fe4c3a09e8ce97699bf2\transformed\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\xvisi\.gradle\caches\transforms-3\15303f787354b594e26c4bc1d7a01ef8\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\xvisi\.gradle\caches\transforms-3\d8c6157bfa2c793271bcb5ab68babcaa\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\xvisi\.gradle\caches\transforms-3\27703c3a6118317ae1eb138941509719\transformed\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\65dfa7529cda83889e241e7b460f7ec4\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\4eda47e8e663d7656d969a0ff6b6a7b6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\cea5151aa06ceabd565517f60d2d89c5\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\xvisi\.gradle\caches\transforms-3\c5343d78e503ce1dc86eed66630d1923\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\9a17619f1c9b9582fca4b7f81433af44\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\64a2d392994452577a480e11197fabd6\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\671a06b1893081f2c8ad60f3958f34d7\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\xvisi\.gradle\caches\transforms-3\98523101c9963e531757127a1e8b685c\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\cc60296bcd6f42dfa5f76f9c0a5cc1a3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\b2cd8d669c990a22e05180b75bd6a08f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\34512101be2ed2f5fdc74ffc413b7aa8\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\ce51b2fe61819d8e2b7ab01a204a2296\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\f21f0cd7c3e0d179b4df4271d39db2da\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\9e1d4f8f0375e8e046d4b4131d85e943\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\b2555f03229cb3fd5668ea7c3eaea4bb\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\xvisi\.gradle\caches\transforms-3\47924f18dd00ff6b5c505f4b0a81e7df\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\xvisi\.gradle\caches\transforms-3\940350fcf534a0a39967d70fa844f162\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\0fd07dafc3a4d8882898ef54b4eb41ee\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\44b07ccdebeb8c1ffb057b97770e1ec4\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\a1d5d16b9b1035f516f6fe86d954cf1e\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\ae45172f514b1784546b95f56dc3c0da\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\fe3c09e81a8bda6708fa897efb6089c7\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\f3521e625b4ba3bfb9db345ad459607d\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\24d05789bc059f70888719f9e9eeba98\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\1a46d70dce90afe0636a48ee7825bc92\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\cfd5bbbf59293e62c50226deaa804b7a\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\9b0ae3f13efa9828246f02a32bf2318b\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:3:3-64
+	android:name
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:3:20-62
+application
+ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:4:5-22:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\xvisi\.gradle\caches\transforms-3\552a1b3fca08fe4c3a09e8ce97699bf2\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\xvisi\.gradle\caches\transforms-3\552a1b3fca08fe4c3a09e8ce97699bf2\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\xvisi\.gradle\caches\transforms-3\15303f787354b594e26c4bc1d7a01ef8\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\xvisi\.gradle\caches\transforms-3\15303f787354b594e26c4bc1d7a01ef8\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\xvisi\.gradle\caches\transforms-3\27703c3a6118317ae1eb138941509719\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\xvisi\.gradle\caches\transforms-3\27703c3a6118317ae1eb138941509719\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\xvisi\.gradle\caches\transforms-3\47924f18dd00ff6b5c505f4b0a81e7df\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\xvisi\.gradle\caches\transforms-3\47924f18dd00ff6b5c505f4b0a81e7df\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\xvisi\.gradle\caches\transforms-3\940350fcf534a0a39967d70fa844f162\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\xvisi\.gradle\caches\transforms-3\940350fcf534a0a39967d70fa844f162\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\44b07ccdebeb8c1ffb057b97770e1ec4\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\44b07ccdebeb8c1ffb057b97770e1ec4\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\xvisi\.gradle\caches\transforms-3\47924f18dd00ff6b5c505f4b0a81e7df\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:10:9-50
+activity#com.android.foodorderapp.OrderSucceessActivity
+ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:11:9-68
+	android:name
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:11:19-56
+activity#com.android.foodorderapp.PlaceYourOrderActivity
+ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:12:9-60
+	android:name
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:12:19-57
+activity#com.android.foodorderapp.RestaurantMenuActivity
+ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:13:9-60
+	android:name
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:13:19-57
+activity#com.android.foodorderapp.SplashActivity
+ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:14:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.android.foodorderapp.MainActivity
+ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:21:9-50
+	android:name
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml:21:19-47
+uses-sdk
+INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml
+INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\xvisi\.gradle\caches\transforms-3\552a1b3fca08fe4c3a09e8ce97699bf2\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\xvisi\.gradle\caches\transforms-3\552a1b3fca08fe4c3a09e8ce97699bf2\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\xvisi\.gradle\caches\transforms-3\15303f787354b594e26c4bc1d7a01ef8\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\xvisi\.gradle\caches\transforms-3\15303f787354b594e26c4bc1d7a01ef8\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\xvisi\.gradle\caches\transforms-3\d8c6157bfa2c793271bcb5ab68babcaa\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\xvisi\.gradle\caches\transforms-3\d8c6157bfa2c793271bcb5ab68babcaa\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\xvisi\.gradle\caches\transforms-3\27703c3a6118317ae1eb138941509719\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\xvisi\.gradle\caches\transforms-3\27703c3a6118317ae1eb138941509719\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\65dfa7529cda83889e241e7b460f7ec4\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\65dfa7529cda83889e241e7b460f7ec4\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\4eda47e8e663d7656d969a0ff6b6a7b6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\4eda47e8e663d7656d969a0ff6b6a7b6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\cea5151aa06ceabd565517f60d2d89c5\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\cea5151aa06ceabd565517f60d2d89c5\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\xvisi\.gradle\caches\transforms-3\c5343d78e503ce1dc86eed66630d1923\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\xvisi\.gradle\caches\transforms-3\c5343d78e503ce1dc86eed66630d1923\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\9a17619f1c9b9582fca4b7f81433af44\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\9a17619f1c9b9582fca4b7f81433af44\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\64a2d392994452577a480e11197fabd6\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\64a2d392994452577a480e11197fabd6\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\671a06b1893081f2c8ad60f3958f34d7\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\671a06b1893081f2c8ad60f3958f34d7\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\xvisi\.gradle\caches\transforms-3\98523101c9963e531757127a1e8b685c\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\xvisi\.gradle\caches\transforms-3\98523101c9963e531757127a1e8b685c\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\cc60296bcd6f42dfa5f76f9c0a5cc1a3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\cc60296bcd6f42dfa5f76f9c0a5cc1a3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\b2cd8d669c990a22e05180b75bd6a08f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\b2cd8d669c990a22e05180b75bd6a08f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\34512101be2ed2f5fdc74ffc413b7aa8\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\34512101be2ed2f5fdc74ffc413b7aa8\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\ce51b2fe61819d8e2b7ab01a204a2296\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\ce51b2fe61819d8e2b7ab01a204a2296\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\f21f0cd7c3e0d179b4df4271d39db2da\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\f21f0cd7c3e0d179b4df4271d39db2da\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\9e1d4f8f0375e8e046d4b4131d85e943\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\9e1d4f8f0375e8e046d4b4131d85e943\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\b2555f03229cb3fd5668ea7c3eaea4bb\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\b2555f03229cb3fd5668ea7c3eaea4bb\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\xvisi\.gradle\caches\transforms-3\47924f18dd00ff6b5c505f4b0a81e7df\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\xvisi\.gradle\caches\transforms-3\47924f18dd00ff6b5c505f4b0a81e7df\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\xvisi\.gradle\caches\transforms-3\940350fcf534a0a39967d70fa844f162\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\xvisi\.gradle\caches\transforms-3\940350fcf534a0a39967d70fa844f162\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\0fd07dafc3a4d8882898ef54b4eb41ee\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\0fd07dafc3a4d8882898ef54b4eb41ee\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\44b07ccdebeb8c1ffb057b97770e1ec4\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\44b07ccdebeb8c1ffb057b97770e1ec4\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\a1d5d16b9b1035f516f6fe86d954cf1e\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\a1d5d16b9b1035f516f6fe86d954cf1e\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\ae45172f514b1784546b95f56dc3c0da\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\xvisi\.gradle\caches\transforms-3\ae45172f514b1784546b95f56dc3c0da\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\fe3c09e81a8bda6708fa897efb6089c7\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\fe3c09e81a8bda6708fa897efb6089c7\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\f3521e625b4ba3bfb9db345ad459607d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\f3521e625b4ba3bfb9db345ad459607d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\24d05789bc059f70888719f9e9eeba98\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\24d05789bc059f70888719f9e9eeba98\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\1a46d70dce90afe0636a48ee7825bc92\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\1a46d70dce90afe0636a48ee7825bc92\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\cfd5bbbf59293e62c50226deaa804b7a\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\cfd5bbbf59293e62c50226deaa804b7a\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\9b0ae3f13efa9828246f02a32bf2318b\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\xvisi\.gradle\caches\transforms-3\9b0ae3f13efa9828246f02a32bf2318b\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml
+INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml
+		INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml
+		ADDED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml
+		INJECTED from X:\System\Downloads\food-delivery-app\FoodApp-main\FoodOrderApp\app\src\main\AndroidManifest.xml

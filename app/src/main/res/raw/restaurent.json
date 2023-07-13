@@ -1,0 +1,237 @@
+[
+    {
+      "name":"RNS Canteen",
+      "address":"RNSIT",
+      "delivery_charge": 5,
+      "image":"https://images.collegedunia.com/public/college_data/images/logos/1626679401rnsitlOGO.png?h=80&w=80&mode=stretch  ",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Masala Dosa",
+          "price": 45,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Masala_Dosa_%28Bengaluru%29.JPG"
+        },
+        {
+          "name": "Idli Sambhar",
+          "price": 25,
+          "url": "https://shwetainthekitchen.com/wp-content/uploads/2022/01/Idli-Sambar.jpg"
+        },
+        {
+          "name": "Vada Sambhar",
+          "price": 35,
+          "url": "https://shwetainthekitchen.com/wp-content/uploads/2012/07/DSC_8163.jpg"
+        },
+        {
+          "name": "Rice Bath",
+          "price": 35,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Rice_Bath_preparation.jpg"
+        },
+        {
+          "name": "Samosa",
+          "price": 15,
+          "url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/samosa-recipe.jpg.webp"
+        },
+        {
+          "name": "Bhajji",
+          "price": 10,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Stuffed_mirchi_bajji_%2816164286908%29.jpg/345px-Stuffed_mirchi_bajji_%2816164286908%29.jpg"
+        },
+        {
+          "name": "Aloo Bonda",
+          "price": 10,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Aloo_bonda_2.jpg/640px-Aloo_bonda_2.jpg"
+        },
+        {
+          "name": "Roti Sabzi",
+          "price": 35,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/A_thali_with_daal_roti_bhindi_ki_sabzi_and_mango_pickle.jpg/640px-A_thali_with_daal_roti_bhindi_ki_sabzi_and_mango_pickle.jpg"
+        },
+        {
+          "name": "Tea",
+          "price": 10,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Cup_of_tea%2C_Scotland.jpg"
+        },
+        {
+          "name": "Filter Coffee",
+          "price": 10,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Filter-Coffee.jpg/1260px-Filter-Coffee.jpg"
+        }
+      ]
+    },
+    {
+      "name":"Sri Krishna Sagar",
+      "address":"Channasandra",
+      "delivery_charge": 4,
+      "image":"data:image/jpeg;base64,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",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 10:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 8:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 10:00 PM",
+        "Saturday":"9:00 AM - 1:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Masala Dosa",
+          "price": 45,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Masala_Dosa_%28Bengaluru%29.JPG"
+        },
+        {
+          "name": "Idli Sambhar",
+          "price": 25,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Idli_Sambar-Noida-UP-SP004.jpg/2560px-Idli_Sambar-Noida-UP-SP004.jpg"
+        },
+        {
+          "name": "Rice Bath",
+          "price": 45,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Rice_Bath_preparation.jpg"
+        },
+        {
+          "name": "Mushroom Biryani",
+          "price": 120,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Mushroom_biryani.JPG"
+        },
+        {
+          "name": "Rice Manchurian",
+          "price": 75,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Spicy_Schezwan_fried_rice.jpg/640px-Spicy_Schezwan_fried_rice.jpg"
+        },
+        {
+          "name": "Tea",
+          "price": 10,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Cups_full_of_milk_tea%2C_in_West_Bengal%2C_India.jpg"
+        },
+        {
+          "name": "Coffee",
+          "price": 10,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Filter-Coffee.jpg/1260px-Filter-Coffee.jpg"
+        },
+        {
+          "name": "Badaam Milk",
+          "price": 10,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/A_cup_of_chilled_Badam_milk.jpg"
+        },
+        {
+          "name": "Samosa",
+          "price": 15,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Samosachutney.jpg"
+        },
+        {
+          "name": "Bajji",
+          "price": 10,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Stuffed_mirchi_bajji_%2816164286908%29.jpg"
+        },
+        {
+          "name": "Tatte Idli",
+          "price": 45,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tatte-idli.jpg/640px-Tatte-idli.jpg"
+        }
+      ]
+    },
+  {
+    "name":"Via Dilli",
+    "address":"Channasandra",
+    "delivery_charge": 5,
+    "image":"https://content3.jdmagicbox.com/comp/delhi/m6/011pxx11.xx11.210618155502.x8m6/catalogue/dilli-dhaba-saket-delhi-north-indian-restaurants-xv8wmzk6wr.jpg",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Chicken Chilli",
+        "price": 90,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Chicken_chilli.jpg/2560px-Chicken_chilli.jpg"
+      },
+      {
+        "name": "Chicken Manchurian",
+        "price": 90,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Chicken_Manchurian_%28Hyderabad_Style%29_%2811960049916%29.jpg"
+      },
+      {
+        "name": "Butter Naan",
+        "price": 35,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Annapurna_Naan.jpg"
+      },
+      {
+        "name": "Fish Rice",
+        "price": 90,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Rice_and_Peas.jpg"
+      },
+      {
+        "name": "Veg Noodles",
+        "price": 70,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Homemade_Chow_mein_with_shrimps_and_meat_with_a_choy_and_Choung.jpg"
+      },
+      {
+        "name": "Egg Chilli",
+        "price": 65,
+        "url": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/ruby_pathak-yahoo.com/Chilli_Egg.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Kitchen King",
+    "address":"Channasandra",
+    "delivery_charge": 6,
+    "image":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/317848696.jpg?k=10a2f18e51a395c090e0f6bffe55921f811a8508876f89251d2037478a34db21&o=&hp=1",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Chicken Roll",
+        "price": 60,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Kolkata_Rolls.jpg"
+      },
+      {
+        "name": "Chicken Biryani",
+        "price": 120,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bangladeshi_Biryani.jpg/220px-Bangladeshi_Biryani.jpg"
+      },
+      {
+        "name": "Masala Roll",
+        "price": 50,
+        "url": "https://spicecravings.com/wp-content/uploads/2020/12/Chicken-Kathi-Roll-Featured-1-500x500.jpg"
+      },
+      {
+        "name": "Egg Roll",
+        "price": 50,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/CookbookEggrollTongs.jpg"
+      },
+      {
+        "name": "Pulao",
+        "price": 70,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Afghan_Palo.jpg"
+      },
+      {
+        "name": "Veg Thali",
+        "price": 80,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Vegetarian_Curry.jpeg/640px-Vegetarian_Curry.jpeg"
+      }
+    ]
+  }
+]
